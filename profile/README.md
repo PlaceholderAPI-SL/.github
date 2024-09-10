@@ -4,7 +4,7 @@
 [ecloud]: https://github.com/PlaceholderAPI-SL/ECloud
 
 <!-- Images -->
-[logo]: https://wiki.placeholderapi.com/assets/img/papi-logo.png
+[logo]: https://i.imgur.com/YdCVFnH.png
 
 [![logo]][source]
 
